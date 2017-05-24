@@ -1,0 +1,15 @@
+How to compile:
+	make
+
+running script:
+
+pd2vm@pd2vm-VirtualBox ~/lab5 $ ./lab5
+20
+20+28825252 = 28825272
+314159265358979323826
+pd2vm@pd2vm-VirtualBox ~/lab5 $ ./lab5
+-100
+-100+28825252 = 28825152
+314159265358979323946
+pd2vm@pd2vm-VirtualBox ~/lab5 $ exit
+
